@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: seogh31/fast:1
+        image: seogh31/fast:19
